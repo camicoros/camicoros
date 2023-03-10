@@ -1,10 +1,10 @@
 # Hello there! I'm Saushkin Denis 👋​
 ## I'm backend developer
-###I have some skills in:
+### I have some skills in:
 
 Python3, Django, PostgreSQL
 
-###Also I have an experience in working with:
+### Also I have an experience in working with:
 * Django Rest Framework, SQLAlchemy, Unit Testing
 * HTML, CSS, Flexbox, Grid, JavaScript, Jquery, React
 
